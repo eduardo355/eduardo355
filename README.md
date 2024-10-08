@@ -22,7 +22,7 @@
 ### Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,express,docker,js,ts,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,docker,js,ts" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ### BackEnd Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,redis" />
   </a>
 </p>
 

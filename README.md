@@ -15,7 +15,7 @@
 
 - A passionate Self-taught front-end and back-end developer
 - Currently learning Web Development by Self
-- Personal website [link]([https://portfolio-gules-chi-11.vercel.app/](https://dev-seven-chi.vercel.app/))
+- Personal website [link]([https://portfolio-gules-chi-11.vercel.app/](https://dev-seven-chi.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAGF40AORS4/FBDabQmv2o9Ql1iu4HVLng/edit?utm_content=DAGF40AORS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br><br>
 

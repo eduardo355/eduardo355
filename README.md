@@ -58,6 +58,8 @@
 </p>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=cobalt)
+
 <li>
 <a href="mailto:ingeniero.eduardo355@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  ingeniero.eduardo355-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />

@@ -70,3 +70,5 @@
 <img src="https://img.shields.io/badge/gmail:  ingeniero.eduardo355-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+[![](https://visitcount.itsvg.in/api?id=eduardo355&icon=0&color=0)](https://visitcount.itsvg.in)

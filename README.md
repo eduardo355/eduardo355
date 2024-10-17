@@ -56,9 +56,14 @@
 </p>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=cobalt)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eduardo355&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=cobalt" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eduardo355&theme=radical" alt="GitHub Streak" />
+</p>
 
 <li>
 <a href="mailto:ingeniero.eduardo355@gmail.com" target="_blank">

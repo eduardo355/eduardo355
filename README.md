@@ -5,8 +5,6 @@
 
 <br>
 
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *About me*
 
@@ -59,6 +57,8 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=cobalt)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eduardo355&theme=radical)
 
 <li>
 <a href="mailto:ingeniero.eduardo355@gmail.com" target="_blank">

@@ -58,7 +58,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=cobalt" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">

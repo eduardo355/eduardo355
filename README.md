@@ -17,43 +17,26 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAGF40AORS4/FBDabQmv2o9Ql1iu4HVLng/edit?utm_content=DAGF40AORS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br><br>
 
-### Programming languages
+### Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,docker,js,ts" />
   </a>
-</p>
-
-
-### Frontend Development
-<p align="center">
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,bootstrap,css,tailwind,electron,html,react,nextjs,vue" />
   </a>
-</p>
-
-### BackEnd Development
-<p align="center">
-  <a href="https://skillicons.dev">
+	  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,redis" />
   </a>
-</p>
-
-
-### DataBase
-<p align="center">
-  <a href="https://skillicons.dev">
+	  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
-</p>
-
-
-### Softwares and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
+	  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git,github,linux,windows,netlify,notion,pinia,vscode" />
   </a>
 </p>
+
+
 <br>
 
 

@@ -14,7 +14,7 @@
 - A passionate Self-taught front-end and back-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://dev-seven-chi.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAGF40AORS4/FBDabQmv2o9Ql1iu4HVLng/edit?utm_content=DAGF40AORS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://cdn-files-occ.s3.amazonaws.com/documents/sp/SP0tOPKMe0vq97KMR6uA9g2/resumefile/Eduardo-Javier-Tovar-Reyes.pdf?AWSAccessKeyId=AKIAVBUMCCY2NGVEAT5Y&Expires=1740517463&Signature=XErK9KksypNWKS%2Fb0OsfC2PolFk%3D)
 <br><br>
 
 ### Skills

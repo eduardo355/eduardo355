@@ -20,19 +20,19 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,docker,js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,ts" />
   </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,bootstrap,css,tailwind,electron,html,react,nextjs,vue" />
   </a>
 	  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
   </a>
 	  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 	  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,linux,windows,netlify,notion,pinia,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 

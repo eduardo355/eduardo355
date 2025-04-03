@@ -13,7 +13,7 @@
 
 - A passionate Self-taught front-end and back-end developer
 - Currently learning Web Development by Self
-- Personal website [link]([https://dev-seven-chi.vercel.app/](https://portfolio-eduardo-tovar.vercel.app/))
+- Personal website [link](https://portfolio-eduardo-tovar.vercel.app/)
 <br><br>
 
 ### Skills

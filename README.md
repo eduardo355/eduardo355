@@ -18,21 +18,15 @@
 
 ### Skills
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-  </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,bootstrap,css,tailwind,html,react,nextjs,vue" />
-  </a>
-	  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
-  </a>
-	  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  </a>
-	  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
+	<a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=js,ts" />
+	</a>
+	<a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=astro,css,html,react,nextjs,sql" />
+	  </a>
+	<a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=git,github" />
+	</a>
 </p>
 
 

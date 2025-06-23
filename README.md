@@ -4,8 +4,6 @@
 
 ##  *About me*
 
-<br>
-
 - A passionate Self-taught front-end and back-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://portfolio-eduardo-tovar.vercel.app/)

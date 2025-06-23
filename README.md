@@ -15,15 +15,9 @@
 ## *Skills*
 
 <p align="center">
-		<a href="https://skillicons.dev">
-			    <img src="https://skillicons.dev/icons?i=js,ts" />
-		</a>
-		<a href="https://skillicons.dev">
-			    <img src="https://skillicons.dev/icons?i=astro,css,html,react,nextjs,rails,postgres" />
-		  </a>
-		<a href="https://skillicons.dev">
-			    <img src="https://skillicons.dev/icons?i=git,github" />
-		</a>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=js,ts,astro,css,html,react,nextjs,rails,postgres,git,github" />
+	</a>
 </p>
 <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=radical" alt="Top Langs" />

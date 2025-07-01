@@ -18,7 +18,7 @@
 	</a>
 </p>
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=8&layout=compact&theme=radical" alt="Top Langs" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo355&langs_count=6&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <p align="center">
 	  <img src="https://streak-stats.demolab.com?user=eduardo355&theme=radical" alt="GitHub Streak" />
